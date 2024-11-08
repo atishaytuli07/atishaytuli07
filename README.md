@@ -97,3 +97,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=atishaytuli07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/atishaytuli07/atishaytuli07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/atishaytuli07/atishaytuli07/output/github-contribution-grid-snake.svg#gh-light-mode-only)
