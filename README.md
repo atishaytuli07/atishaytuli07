@@ -52,6 +52,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=ffdd54) 
 ![React Native](https://img.shields.io/badge/React_native-%2335495e.svg?style=flat&logo=react&logoColor=%234FC08D)
 ![NPM](https://img.shields.io/badge/NPM-%2335495e.svg?style=flat&logo=npm&logoColor=ffdd54) 
+![SHERY](https://img.shields.io/badge/Shery.js-%2335495e.svg?style=flat&logo=npm&logoColor=ffdd54) 
 ![Vite](https://img.shields.io/badge/Vite-%2335495e.svg?style=flat&logo=vite&logoColor=ffdd54) 
 
 #### CSS Library /Framework /Pre-Processors
