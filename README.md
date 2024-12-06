@@ -94,14 +94,17 @@
 </br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atishaytuli07&theme=default_repocard&hide_border=true)
-🌟 Follow my work here: [cheif GitHub Profile](https://github.com/atishaytuli07)
+
 
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atishaytuli07&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=atishaytuli07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+🌟 Follow my work here: [cheif GitHub Profile](https://github.com/atishaytuli07) 🚀
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/atishaytuli07/atishaytuli07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/atishaytuli07/atishaytuli07/output/github-contribution-grid-snake.svg#gh-light-mode-only)
