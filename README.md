@@ -60,6 +60,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23593d88.svg?style=flat&logo=bootstrap&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+![Shadcn UI](https://img.shields.io/badge/ShadcnUI-%3338B2DC.svg?style=flat&logo=SASS&logoColor=white) 
 
 ### Creative Web Development
 
