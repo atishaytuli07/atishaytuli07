@@ -70,7 +70,7 @@
 ![Locomotive](https://img.shields.io/badge/Locomotive-%23000000.svg?style=flat-square&logo=locomotive&logoColor=%23F7DF1E)
 ![Lenis](https://img.shields.io/badge/Lenis-%23000000.svg?style=flat-square&logo=webgl&logoColor=orange)
 ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=flat-square&logo=canva&logoColor=blue)
-![Adobe](https://img.shields.io/badge/Adobe-%23000000.svg?style=flat-square&logo=adobe&logoColor=red)
+![FM](https://img.shields.io/badge/FramerMotion-%23000000.svg?style=flat-square&logo=adobe&logoColor=red)
 
 #### Database
 
