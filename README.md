@@ -15,10 +15,10 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23593d88?logo=mongodb&logoColor=white&style=flat" alt="Portfolio Badge" />
   </a>
-  <a href="https://medium.com/@atishaytuli07" target="_blank">
+  <a href="https://atishaytuli.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium Badge" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://atishayweb.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Webfolio-%23E34F26?logo=vercel&logoColor=white&style=flat" alt="Webfolio Badge" />
   </a>
 </div>
