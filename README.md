@@ -40,7 +40,7 @@
 
 <br/>
 
-### 👨‍💻 About Me  
+### About Me 👨‍💻  
 
 - 🛠 I'm a Frontend Engineer who loves turning ideas into reality and crafting responsive, accessible, and performant interfaces.  
 - 🎨 From designing clean UI/UX in Figma, building interfaces with React & Next.js, to adding dynamic animations with GSAP & Framer Motion*, I enjoy blending design, creativity, and technology.  
