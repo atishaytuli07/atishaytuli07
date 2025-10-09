@@ -123,3 +123,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/atishaytuli07/atishaytuli07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/atishaytuli07/atishaytuli07/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<br/>
+
+- I’m not just your average web developer, I’m a creative mind on a mission to transform pixels perfectly into digital magic!
