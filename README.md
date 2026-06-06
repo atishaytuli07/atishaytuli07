@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/atishaytuli07" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://atishayweb.vercel.app" target="_blank">
+  <a href="https://creativeatishay.in" target="_blank">
     <img src="https://img.shields.io/badge/Webfolio-%23E34F26?logo=vercel&logoColor=white&style=flat" alt="Webfolio Badge" />
   </a>
   <a href="https://layers.to/atishaytuli07" target="_blank">
